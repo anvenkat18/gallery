@@ -4,6 +4,8 @@ These projects are used in conjunction Seeq Workbench, Seeq Organizer and Seeq D
 
 You are welcome to fork the repositories and make improvements if the project's license permits you to do so.
 
+----------
+
 ## [Correlation](https://github.com/seeq12/seeq-correlation)
 
 **Maintainer(s): [Seeq](www.seeq.com)**
@@ -14,6 +16,8 @@ Analyze correlations and lags amongst time series signals. Perform offline cross
 
 ![](/assets/seeq-correlation.jpg)
 
+----------
+
 ## [Clustering](https://github.com/seeq12/seeq-clustering)
 
 **Maintainer(s): [Seeq](www.seeq.com)**
@@ -23,6 +27,8 @@ Analyze correlations and lags amongst time series signals. Perform offline cross
 Perform visual or automatic clustering of equipment/process data to identify similar periods in time. Both ad hoc and streaming analysis is supported. Similar periods are identified as capsules of a condition in Seeq.
 
 ![](/assets/seeq-clustering.jpg)
+
+----------
 
 ## [SysId](https://github.com/BYU-PRISM/Seeq)
 
