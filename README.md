@@ -8,7 +8,7 @@ You are welcome to fork the repositories and make improvements if the project's 
 
 ## [Correlation](https://github.com/seeq12/seeq-correlation)
 
-**Maintainer(s): [Seeq](www.seeq.com)**
+**Maintainer(s): [Seeq](https://www.seeq.com)**
 
 **GitHub: [https://github.com/seeq12/seeq-correlation](https://github.com/seeq12/seeq-correlation)**
 
@@ -20,7 +20,7 @@ Analyze correlations and lags amongst time series signals. Perform offline cross
 
 ## [Clustering](https://github.com/seeq12/seeq-clustering)
 
-**Maintainer(s): [Seeq](www.seeq.com)**
+**Maintainer(s): [Seeq](https://www.seeq.com)**
 
 **GitHub: [https://github.com/seeq12/seeq-clustering](https://github.com/seeq12/seeq-clustering)**
 
