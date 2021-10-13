@@ -6,9 +6,11 @@ You are welcome to fork the repositories and make improvements if the project's 
 
 ----------
 
-## [Correlation](https://github.com/seeq12/seeq-correlation)
+## Correlation
 
 **Maintainer(s): [Seeq](https://www.seeq.com)**
+
+**Documentation: [https://seeq12.github.io/seeq-correlation](https://seeq12.github.io/seeq-correlation)**
 
 **GitHub: [https://github.com/seeq12/seeq-correlation](https://github.com/seeq12/seeq-correlation)**
 
@@ -18,7 +20,7 @@ Analyze correlations and lags amongst time series signals. Perform offline cross
 
 ----------
 
-## [Clustering](https://github.com/seeq12/seeq-clustering)
+## Clustering
 
 **Maintainer(s): [Seeq](https://www.seeq.com)**
 
@@ -30,7 +32,7 @@ Perform visual or automatic clustering of equipment/process data to identify sim
 
 ----------
 
-## [SysId](https://github.com/BYU-PRISM/Seeq)
+## SysId
 
 **Maintainer(s): [BYU PRISM](https://apm.byu.edu/prism/)**
 
