@@ -41,3 +41,17 @@ Perform visual or automatic clustering of equipment/process data to identify sim
 Build dynamic multivariate models from contextualized equipment/process data and deploy in Seeq for historical and streaming predictions.
 
 ![](/assets/seeq-sysid.jpg)
+
+----------
+
+## MPS
+
+**Maintainer(s): [Seeq](https://www.seeq.com)**
+
+**Documentation: [https://seeq12.github.io/seeq-mps/](https://seeq12.github.io/seeq-mps/)**
+
+**GitHub: [https://github.com/seeq12/seeq-mps](https://github.com/seeq12/seeq-mps)**
+
+Find similar or dissimilar periods for multivariate continuous and batch processes.  Gain insights into key contributors and bad actors.
+
+![](/assets/seeq-mps.jpg)
