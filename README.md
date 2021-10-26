@@ -32,7 +32,7 @@ Perform visual or automatic clustering of equipment/process data to identify sim
 
 ----------
 
-## SysId
+## System Identification (SysId)
 
 **Maintainer(s): [BYU PRISM](https://apm.byu.edu/prism/)**
 
@@ -44,7 +44,7 @@ Build dynamic multivariate models from contextualized equipment/process data and
 
 ----------
 
-## MPS
+## Multivariate Pattern Search (MPS)
 
 **Maintainer(s): [Seeq](https://www.seeq.com)**
 
