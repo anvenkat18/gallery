@@ -54,4 +54,4 @@ Build dynamic multivariate models from contextualized equipment/process data and
 
 Find similar or dissimilar periods for multivariate continuous and batch processes.  Gain insights into key contributors and bad actors.
 
-![](/assets/seeq-mps.jpg)
+![](/assets/seeq-mps.JPG)
